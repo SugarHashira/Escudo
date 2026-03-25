@@ -1,0 +1,51 @@
+{
+  "originHash" : "6be688f6ff6f204af8bd672e3700e3ef19a4fb2f09675d268bfb247d7e966403",
+  "pins" : [
+    {
+      "identity" : "confettiswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/simibac/ConfettiSwiftUI",
+      "state" : {
+        "revision" : "f45961f97bbae6fff6e2e64546fea0189425ad92",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "crookedtext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/duemunk/CrookedText",
+      "state" : {
+        "revision" : "70ae8691bdfb62698571e69bd855acf4030795ea",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "isscrolling",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fatbobman/IsScrolling",
+      "state" : {
+        "revision" : "f828c01e563abe06778e46a6784d46f73cb28deb",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "popovers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aheze/Popovers",
+      "state" : {
+        "revision" : "de44c4dd7271ec6413fe350f7efadb14e5e18dce",
+        "version" : "1.3.2"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect",
+      "state" : {
+        "revision" : "807f73ce09a9b9723f12385e592b4e0aaebd3336",
+        "version" : "1.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
