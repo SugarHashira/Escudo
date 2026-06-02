@@ -14,17 +14,18 @@ Built out of two frustrations: every decent finance app costs a monthly subscrip
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-log.png" width="180" alt="Log screen" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-settings.png" width="180" alt="Settings screen" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-transaction.jpeg" width="180" alt="Transaction entry" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-insights.jpeg" width="180" alt="Insights screen" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-budget.jpeg" width="180" alt="Budget screen" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-log.png" width="180" alt="Log" /><br/><sub><b>Log</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-insights.jpeg" width="180" alt="Insights" /><br/><sub><b>Insights</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-budget.jpeg" width="180" alt="Budget" /><br/><sub><b>Budget</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-transaction.jpeg" width="180" alt="Transaction" /><br/><sub><b>Transaction Entry</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SugarHashira/Escudo/master/docs/screen-settings.png" width="180" alt="Settings" /><br/><sub><b>Settings</b></sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
